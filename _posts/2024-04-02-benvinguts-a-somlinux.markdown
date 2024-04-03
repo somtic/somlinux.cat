@@ -14,13 +14,7 @@ On "YEAR" és un nombre de quatre dígits, "MES" i "DIA" són números de dos d�
 
 Jekyll també ofereix un potent suport per a fragments de codi:
 
-{% rubí destacat %}
-def print_hi(nom)
-   posa "Hola, #{nom}"
-final
-print_hi('Tom')
-#=> imprimeix "Hola, Tom" a STDOUT.
-{% ressaltat final %}
+
 
 Consulteu els [Jekyll docs][jekyll-docs] per obtenir més informació sobre com treure el màxim profit de Jekyll. Arxiu tots els errors/sol·licituds de funcions a [Jekyll's GitHub repo][jekyll-gh]. Si teniu preguntes, podeu fer-les a [Jekyll Talk][jekyll-talk].
 

@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://somlinux.cat"
 
 github:
-  username: coop2540@somtic.cat # change to your github username
+  username: somtic/somlinux.cat # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -88,7 +88,8 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+# avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/somlinux-logo3.svg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

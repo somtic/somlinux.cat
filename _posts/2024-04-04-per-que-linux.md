@@ -1,7 +1,7 @@
 ---
 title:  "Per què Linux?"
 date:   2024-04-04 09:10:39 +0200
-categories: [linux]
+categories: [Linux]
 tags: [principis]
 image:
   path: "https://wallup.net/wp-content/uploads/2017/11/17/239316-Linux-Tux.jpg"

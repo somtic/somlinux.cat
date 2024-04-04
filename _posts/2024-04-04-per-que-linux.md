@@ -3,6 +3,9 @@ title:  "Per què Linux?"
 date:   2024-04-04 09:10:39 +0200
 categories: [linux]
 tags: [principis]
+image:
+  path: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"
+  alt: "Tux, the linux mascot. By Larry Ewing, Simon Budig, Garrett LeSage - https://isc.tamu.edu/~lewing/linux/, http://www.home.unix-ag.org/simon/penguin/, garrett/Tux on GitHub, CC0, https://commons.wikimedia.org/w/index.php?curid=753970"
 ---
 # Per què Linux?
 

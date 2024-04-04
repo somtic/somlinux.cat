@@ -21,27 +21,27 @@ Aquest post s'anirà modificant, esperem què, assiduament.
 
 Són molt benvingudes les teves aportacions i/o comentaris!!! 
 
-# Programari d'escriptori
+## Programari d'escriptori
 
-## Categoria 1
-
-- Nom programa [Enllaç al web](#) | Petita descripció.
-  - Altres enllaços: [Enllaç al web](#)
-
-## Categoria 2
+### Categoria 1
 
 - Nom programa [Enllaç al web](#) | Petita descripció.
   - Altres enllaços: [Enllaç al web](#)
 
-
-# Programari al núvol (cloud) 
-
-## Categoria 1
+### Categoria 2
 
 - Nom programa [Enllaç al web](#) | Petita descripció.
   - Altres enllaços: [Enllaç al web](#)
 
-## Categoria 2
+
+## Programari al núvol (cloud) 
+
+### Categoria 1
+
+- Nom programa [Enllaç al web](#) | Petita descripció.
+  - Altres enllaços: [Enllaç al web](#)
+
+### Categoria 2
 
 - Nom programa [Enllaç al web](#) | Petita descripció.
   - Altres enllaços: [Enllaç al web](#)

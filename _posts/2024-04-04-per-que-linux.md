@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Per què Linux?"
 date:   2024-04-04 21:10:39 +0200
-categories: linux
+categories: [linux]
+tags: [principis]
 ---
 # Per què Linux?
 

@@ -8,6 +8,14 @@ image:
   path: 'https://somlinux.cat/assets/img/posts/chiara-f-MI8He1NWPWg-unsplash.jpg'
   alt: 'Foto de Chiara F a Unsplash'
 ---
+Contingut:
+- [Introducció](#introducció)
+- [Programari d'escriptori](#programari-descriptori)
+  - [Categoria 1](#categoria-1)
+  - [Categoria 2](#categoria-2)
+- [Programari al núvol (cloud)](#programari-al-núvol-cloud)
+  - [Sistemes CMS (Custom Management System)](#sistemes-cms-custom-management-system)
+  - [Categoria 2](#categoria-2-1)
 
 ## Introducció
 

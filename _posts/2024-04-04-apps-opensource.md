@@ -7,7 +7,6 @@ tags: [bookmarks, apps, programari]
 image:
   path: 'https://somlinux.cat/assets/img/posts/chiara-f-MI8He1NWPWg-unsplash.jpg'
   alt: "Foto de [Chiara F](https://unsplash.com/es/@quasichiara?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) a [Unsplash](https://unsplash.com/es/fotos/fotografia-de-enfoque-superficial-de-marcapaginas-verdes-rosas-y-naranjas-MI8He1NWPWg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
-  "
 ---
 
 # Recopilació d'apps OpenSource

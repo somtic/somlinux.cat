@@ -1,5 +1,5 @@
 ---
-title:  "Recopilació de programari opensource"
+title:  "Recopilació de programari de codi obert (opensource)"
 description: "Llistat de programari i eines que anem recopilant a SomLinux.cat"
 date:   2024-04-04 17:10:39 +0200
 categories: [OpenSource, Programari]
@@ -8,8 +8,6 @@ image:
   path: 'https://somlinux.cat/assets/img/posts/chiara-f-MI8He1NWPWg-unsplash.jpg'
   alt: 'Foto de Chiara F a Unsplash'
 ---
-
-# Recopilació de programari de Codi Obert (OpenSource)
 
 ## Introducció
 

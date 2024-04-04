@@ -1,12 +1,12 @@
 ---
-title:  "Recopilació d'apps opensource"
-description: "Llistat d'apps i eines que anem recopilant a SomLinux.cat"
+title:  "Recopilació de programari opensource"
+description: "Llistat de programari i eines que anem recopilant a SomLinux.cat"
 date:   2024-04-04 17:10:39 +0200
 categories: [OpenSource, Programari]
 tags: [bookmarks, apps, programari]
 image:
   path: 'https://somlinux.cat/assets/img/posts/chiara-f-MI8He1NWPWg-unsplash.jpg'
-  alt: "Foto de [Chiara F](https://unsplash.com/es/@quasichiara?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) a [Unsplash](https://unsplash.com/es/fotos/fotografia-de-enfoque-superficial-de-marcapaginas-verdes-rosas-y-naranjas-MI8He1NWPWg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+  alt: 'Foto de [Chiara F](https://unsplash.com/es/@quasichiara?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) a [Unsplash](https://unsplash.com/es/fotos/fotografia-de-enfoque-superficial-de-marcapaginas-verdes-rosas-y-naranjas-MI8He1NWPWg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)'
 ---
 
 # Recopilació d'apps OpenSource

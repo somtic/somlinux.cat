@@ -67,9 +67,9 @@ A més, si necessites ajuda directa o vols compartir la teva experiència amb no
 
 - **Interfície no familiar**: Pot ser una mica desconcertant al principi, però amb el temps et familiaritzaràs amb l'entorn gràfic i la línia d'ordres de Linux.
 - **Compatibilitat de programari**: Algunes aplicacions poden no estar disponibles per a Linux, però hi ha alternatives equivalents que pots utilitzar. Pots consultar aquestes webs:
-  - [Openasourcealternative.to](https://www.opensourcealternative.to/)
-  - [Open Alternative](https://openalternative.co/)
-  - [Opensource.com] (https://opensource.com/alternatives)
+  - [Openasourcealternative.to](https://www.opensourcealternative.to/){:target="_blank"}
+  - [Open Alternative](https://openalternative.co/){:target="_blank"}
+  - [Opensource.com](https://opensource.com/alternatives){:target="_blank"}
 - **Curva d'aprenentatge**: Com amb qualsevol nou sistema operatiu, pot trigar una mica de temps a acostumar-te a Linux, però amb pràctica i paciència, estaràs funcionant com un professional en poc temps!
 
 ## Conclusió

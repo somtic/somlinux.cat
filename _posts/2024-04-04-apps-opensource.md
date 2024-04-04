@@ -23,7 +23,7 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ## Programari d'escriptori
 
-El programari d'escriptori és aquell que instal·lem al nostre ordinador, al nostre sistema operatiu.
+> El programari d'escriptori és aquell que instal·lem al nostre ordinador, al nostre sistema operatiu. {: .prompt-tip }
 
 ### Categoria 1
 
@@ -37,7 +37,7 @@ El programari d'escriptori és aquell que instal·lem al nostre ordinador, al no
 
 ## Programari al núvol (cloud)
 
-El programari al núvol és aquell que s'instal·la en un servidor connectat a internet, i s'accedeix a través d'un programa client. Per exemple, Wordpress és un programari que s'utilitza per crear pàgines web CMS (Custom Management System) = autogestionables, que s'instal·la en un servidor web i s'accedeix a través d'un navegador web.
+> El programari al núvol, també conegut com a software as a service (SaaS), és aquell que s'executa en un servidor remot connectat a internet i al qual s'accedeix mitjançant un navegador web o una aplicació client específica. Un exemple clàssic d'aquest tipus de programari és Wordpress, una plataforma de gestió de contingut (CMS) amplament utilitzada per crear i mantenir llocs web autogestionables. En aquest cas, Wordpress s'instal·la en un servidor web i es pot accedir a través d'un navegador web des de qualsevol dispositiu amb connexió a internet. {: .prompt-tip }
 
 ### Sistemes CMS (Custom Management System)
 

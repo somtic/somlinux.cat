@@ -111,9 +111,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: somtic/somlinux.cat
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOLo4ojg
+    category: "Show and tell"
+    category_id: DIC_kwDOLo4ojs4CedGE
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

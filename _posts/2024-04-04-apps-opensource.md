@@ -7,6 +7,7 @@ tags: [bookmarks, apps, programari]
 image:
   path: 'https://somlinux.cat/assets/img/posts/chiara-f-MI8He1NWPWg-unsplash.jpg'
   alt: 'Foto de Chiara F a Unsplash'
+pin: true
 ---
 Contingut:
 - [Introducció](#introducció)

@@ -1,12 +1,12 @@
 ---
 title:  "Començar a Utilitzar Linux: Una Guia per a Principiants"
+description: "Explorarem els avantatges de Linux, els passos per començar i com superar els reptes inicials."
 date:   2024-04-04 17:10:39 +0200
 categories: [Linux, Guies]
 tags: [inicis, guies, linux]
 image:
   path: 'https://somlinux.cat/assets/img/posts/clemens-van-lay-5eThdzpVqyE-unsplash.jpg'
-  alt: "Foto de <a href="https://unsplash.com/es/@clemensvanlay?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clemens van Lay</a> en <a href="https://unsplash.com/es/fotos/un-campo-de-futbol-con-las-palabras-start-escritas-en-el-5eThdzpVqyE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  "
+  alt: "Foto de Clemens van Lay en Unsplash"
 ---
 
 # Començar a Utilitzar Linux: Una Guia per a Principiants

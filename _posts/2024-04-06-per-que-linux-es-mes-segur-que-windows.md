@@ -64,9 +64,9 @@ En definitiva, encara que Linux sigui menys vulnerable als ciberatacs que Window
 En resum, la combinació d'un codi obert, un enfocament en el privilegi mínim, eines de seguretat integrades, la personalització i la menor propensió a ciberatacs fan de Linux una opció més segura en termes de seguretat informàtica en comparació amb Windows. La constant vigilància, actualitzacions i bones pràctiques de seguretat són fonamentals per mantenir la integritat i protecció del sistema operatiu Linux. 
 
 Cites:
-[1] https://linuxsecurity.com/news/security-vulnerabilities
-[2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
-[3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
-[4] https://ubuntu.com/security/cves
-[5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
+-[1] https://linuxsecurity.com/news/security-vulnerabilities
+-[2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
+-[3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
+-[4] https://ubuntu.com/security/cves
+-[5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
 

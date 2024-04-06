@@ -4,20 +4,14 @@ title:  "Benvinguts a SomLinux.cat!"
 date:   2024-04-02 21:10:39 +0200
 categories: somlinux
 ---
-Trobareu aquesta publicació al vostre directori `_posts`. Aneu endavant i editeu-lo i torneu a crear el lloc per veure els vostres canvis. Podeu reconstruir el lloc de moltes maneres diferents, però la forma més habitual és executar `jekyll serve`, que llança un servidor web i regenera automàticament el vostre lloc quan s'actualitza un fitxer.
+Som una comunitat de persones de parla catalana apassionades per Linux i el món del codi obert. Aquí trobaràs recursos, tutorials i consells relacionats amb Linux, servidors, programari de codi obert i molt més, tot en català.
 
-Jekyll requereix que els fitxers de publicacions del bloc tinguin un nom segons el format següent:
+Amb una experiència variada en el camp de la tecnologia, estem aquí per compartir els nostres coneixements i aprendre junts. Siguis un principiant que vol descobrir Linux per primera vegada o un usuari experimentat que vol compartir els seus coneixements i ampliar-los encara més, SomLinux.cat és el lloc ideal per a tu.
 
-`ANY-MES-DIA-títol.MARKUP`
+Volem convidar a totes les persones de parla catalana que fan servir Linux i/o programari de codi obert a unir-se a nosaltres. Junts podem créixer, aprendre i compartir experiències. Explora els nostres articles, participa en els nostres fòrums i uneix-te a la conversa.
 
-On "YEAR" és un nombre de quatre dígits, "MES" i "DIA" són números de dos dígits i "MARKUP" és l'extensió del fitxer que representa el format utilitzat al fitxer. Després d'això, incloeu la matèria davantera necessària. Fes una ullada a la font d'aquesta publicació per fer-te una idea de com funciona.
+Gràcies per unir-te a nosaltres i ser part de la comunitat de SomLinux.cat!
 
-Jekyll també ofereix un potent suport per a fragments de codi:
+Per a més informació o si necessites ajuda, pots contactar amb nosaltres a través de l'email [suport@somlinux.cat](mailto:suport@somlinux.cat).
 
-
-
-Consulteu els [Jekyll docs][jekyll-docs] per obtenir més informació sobre com treure el màxim profit de Jekyll. Arxiu tots els errors/sol·licituds de funcions a [Jekyll's GitHub repo][jekyll-gh]. Si teniu preguntes, podeu fer-les a [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Troba el nostre repositori a [GitHub](https://github.com/somtic/somlinux.cat).

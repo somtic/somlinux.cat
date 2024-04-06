@@ -65,13 +65,9 @@ En resum, la combinació d'un codi obert, un enfocament en el privilegi mínim, 
 
 Cites:
 
--[1] https://linuxsecurity.com/news/security-vulnerabilities
-
--[2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
-
--[3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
-
--[4] https://ubuntu.com/security/cves
-
--[5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
+- [1] https://linuxsecurity.com/news/security-vulnerabilities
+- [2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
+- [3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
+- [4] https://ubuntu.com/security/cves
+- [5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
 

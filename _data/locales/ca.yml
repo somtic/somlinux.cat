@@ -20,7 +20,7 @@ tabs:
 search:
   hint: Cercar
   cancel: Cancelar
-  no_results: "¡Oops! No s'han trobat resultats."
+  no_results: ¡Oops! No s\'han trobat resultats.
 
 panel:
   lastmod: Actualizat recentement
@@ -30,15 +30,15 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: "Aquesta entrada està llicenciada sota :LICENSE_NAME per l'autor."
+    template: Aquesta entrada està llicenciada sota :LICENSE_NAME per l\'autor.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: Alguns drets reservats.
   verbose: >-
-    "Tret que s'indiqui explícitament, les entrades d'aquest bloc estan llicenciades
-     sota la Creative Commons Attribution 4.0 International (CC BY 4.0) License per l'autor."
+    Tret que s\'indiqui explícitament, les entrades d\'aquest bloc estan llicenciades
+     sota la Creative Commons Attribution 4.0 International (CC BY 4.0) License per l\'autor.
 
 meta: Fet amb :PLATFORM fent servir el tema :THEME
 

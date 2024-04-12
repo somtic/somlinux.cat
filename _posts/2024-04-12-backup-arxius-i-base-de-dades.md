@@ -3,7 +3,7 @@ title: "Còpia de seguretat d'arxius i base de dades"
 description: "Com fer una còpia de seguretat d'arxius i base de dades en un servidor vps debian linux"
 date: 2024-04-12 20:00:39 +0200
 categories: [Linux, bash]
-tags: [backups, vps, mysql, tar]
+tags: [backups, vps, mysql, tar, hosting]
 image:
   path: "https://somlinux.cat/assets/img/posts/lukas-NLSXFjl_nhc-unsplash-debian.jpg"
   alt: "Foto de Lukas a Unsplash"

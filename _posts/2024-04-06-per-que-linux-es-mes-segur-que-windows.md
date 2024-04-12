@@ -1,7 +1,7 @@
 ---
 title: "Per què Linux és considerat un Sistema Operatiu més segur que Windows?"
 date: 2024-04-06 23:10:39 +0200
-categories: [linux]
+categories: [Linux]
 tags: [seguretat]
 image:
   path: "https://somlinux.cat/assets/img/posts/flyd-mT7lXZPjk7U-unsplash-seguretat.jpg"

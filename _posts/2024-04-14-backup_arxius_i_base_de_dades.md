@@ -1,6 +1,6 @@
 ---
-title:  "Copia de seguretat d\'arxius i base de dades"
-date:   2024-04-12 22:00:39 +0200
+title:  "Copia de seguretat d'arxius i base de dades"
+date:   2024-04-12 22:00:39
 categories: [linux][bash]
 tags: [backups][vps][mysql][tar]
 ---

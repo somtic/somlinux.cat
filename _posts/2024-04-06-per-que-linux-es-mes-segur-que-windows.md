@@ -1,6 +1,6 @@
 ---
-title:  "Per què Linux és considerat un Sistema Operatiu més segur que Windows?"
-date:   2024-04-06 23:10:39 +0200
+title: "Per què Linux és considerat un Sistema Operatiu més segur que Windows?"
+date: 2024-04-06 23:10:39 +0200
 categories: [linux]
 tags: [seguretat]
 ---
@@ -53,21 +53,20 @@ En resum, la varietat de distribucions i la capacitat de personalització de Lin
 
 ## Menor Propensió a Ciberatacs
 
-Linux, al contrari que Windows, és menys vulnerable als ciberatacs, ja que és menys atractiu per als ciberdelinqüents. Això és degut, en part, a la seva estructura i popularitat limitada en certs entorns[1][4]. No obstant això, això no significa que Linux sigui immune a les vulnerabilitats de seguretat. De fet, recentment s'han descobert quatre vulnerabilitats significatives en el GNU C Library (glibc), un component fonamental de la majoria de les distribucions de Linux[1].
+Linux, al contrari que Windows, és menys vulnerable als ciberatacs, ja que és menys atractiu per als ciberdelinqüents. Això és degut, en part, a la seva estructura i popularitat limitada en certs entorns[^footnote]. No obstant això, això no significa que Linux sigui immune a les vulnerabilitats de seguretat. De fet, recentment s'han descobert quatre vulnerabilitats significatives en el GNU C Library (glibc), un component fonamental de la majoria de les distribucions de Linux[^footnote].
 
-Per minimitzar el risc de ciberatacs, Linux ofereix diverses funcions de seguretat que es poden configurar, com ara actualitzacions periòdiques, l'ús de contrasenyes fortes, el xifrat de dades i la configuració de firewalls[2]. A més, el nucli de Linux proporciona documentació sobre vulnerabilitats de maquinari i possibles mitigacions[3].
+Per minimitzar el risc de ciberatacs, Linux ofereix diverses funcions de seguretat que es poden configurar, com ara actualitzacions periòdiques, l'ús de contrasenyes fortes, el xifrat de dades i la configuració de firewalls[^fn-nth-2]. A més, el nucli de Linux proporciona documentació sobre vulnerabilitats de maquinari i possibles mitigacions[^fn-nth-3].
 
-Canonical, la companyia responsable d'Ubuntu, un popular sistema operatiu basat en Linux, manté un registre de totes les vulnerabilitats de seguretat que afecten Ubuntu i publica avisos de seguretat quan es resolen aquests problemes[4].
+Canonical, la companyia responsable d'Ubuntu, un popular sistema operatiu basat en Linux, manté un registre de totes les vulnerabilitats de seguretat que afecten Ubuntu i publica avisos de seguretat quan es resolen aquests problemes[^fn-nth-4].
 
 En definitiva, encara que Linux sigui menys vulnerable als ciberatacs que Windows, és important mantenir actualitzat el sistema operatiu i configurar les funcions de seguretat adequades per minimitzar el risc de vulnerabilitats de seguretat.
 
-En resum, la combinació d'un codi obert, un enfocament en el privilegi mínim, eines de seguretat integrades, la personalització i la menor propensió a ciberatacs fan de Linux una opció més segura en termes de seguretat informàtica en comparació amb Windows. La constant vigilància, actualitzacions i bones pràctiques de seguretat són fonamentals per mantenir la integritat i protecció del sistema operatiu Linux. 
+En resum, la combinació d'un codi obert, un enfocament en el privilegi mínim, eines de seguretat integrades, la personalització i la menor propensió a ciberatacs fan de Linux una opció més segura en termes de seguretat informàtica en comparació amb Windows. La constant vigilància, actualitzacions i bones pràctiques de seguretat són fonamentals per mantenir la integritat i protecció del sistema operatiu Linux.
 
 Cites:
 
-- [1] https://linuxsecurity.com/news/security-vulnerabilities
-- [2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
-- [3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
-- [4] https://ubuntu.com/security/cves
-- [5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
-
+- [^footnote] https://linuxsecurity.com/news/security-vulnerabilities
+- [^fn-nth-2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
+- [^fn-nth-3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
+- [^fn-nth-4] https://ubuntu.com/security/cves
+- [^fn-nth-5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html

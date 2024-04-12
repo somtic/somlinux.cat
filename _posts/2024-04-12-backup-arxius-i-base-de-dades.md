@@ -28,7 +28,9 @@ L'exemple està realitzat amb ispconfig.
 
 Em situo dins de /backup/ i faig servir una comanda per copiar i empaquetar.
 
-`tar -czvf elteudomini_backup.tar.gz /var/www/[elteudomini]/web/`
+```bash
+tar -czvf elteudomini_backup.tar.gz /var/www/[elteudomini]/web/
+```
 
 - -c: Crea un nou arxiu tar.
 - -z: Comprimeix l\'arxiu amb gzip.
@@ -45,6 +47,8 @@ Per la base de dades (mysql) tenim els següents paràmetres:
 
 Situats al mateix directori farem la comanda:
 
-`mysqldump -u usuari_base_dades -p'paraulaclau' base_dades_web | gzip > backup_base_dades.sql.gz`
+```bash
+mysqldump -u usuari_base_dades -p'paraulaclau' base_dades_web | gzip > backup_base_dades.sql.gz
+```
 
 Aquestes comandes estan realitzades amb l'usuari root. La recomanació és fer-ho amb l'usuari que pertany a aquell hosting, posant davant de les instruccions `sudo -u usuari`

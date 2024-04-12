@@ -4,6 +4,9 @@ description: "Com fer una còpia de seguretat d'arxius i base de dades en un ser
 date: 2024-04-12 20:00:39 +0200
 categories: [Linux, bash]
 tags: [backups, vps, mysql, tar]
+image:
+  path: "https://somlinux.cat/imatges/lukas-NLSXFjl_nhc-unsplash-debian.jpg"
+  alt: "Foto de Lukas a Unsplash"
 ---
 
 # Introducció

@@ -1,6 +1,10 @@
 ---
 title:  "Copia de seguretat d'arxius i base de dades"
+<<<<<<< HEAD:_posts/2024-04-14-backup_arxius_i_base_de_dades .md
 date:   2024-04-12 22:00:39 +0200
+=======
+date:   2024-04-12 22:00:39
+>>>>>>> 1054c13e4671822bf6a4c7344d9eeab9a1015d52:_posts/2024-04-14-backup_arxius_i_base_de_dades.md
 categories: [linux][bash]
 tags: [backups][vps][mysql][tar]
 ---

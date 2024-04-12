@@ -53,7 +53,7 @@ En resum, la varietat de distribucions i la capacitat de personalització de Lin
 
 ## Menor Propensió a Ciberatacs
 
-Linux, al contrari que Windows, és menys vulnerable als ciberatacs, ja que és menys atractiu per als ciberdelinqüents. Això és degut, en part, a la seva estructura i popularitat limitada en certs entorns[^footnote]. No obstant això, això no significa que Linux sigui immune a les vulnerabilitats de seguretat. De fet, recentment s'han descobert quatre vulnerabilitats significatives en el GNU C Library (glibc), un component fonamental de la majoria de les distribucions de Linux[^footnote].
+Linux, al contrari que Windows, és menys vulnerable als ciberatacs, ja que és menys atractiu per als ciberdelinqüents. Això és degut, en part, a la seva estructura i popularitat limitada en certs entorns[^footnote]. No obstant això, això no significa que Linux sigui immune a les vulnerabilitats de seguretat. De fet, recentment s'han descobert quatre vulnerabilitats significatives en el GNU C Library (glibc), un component fonamental de la majoria de les distribucions de Linux.
 
 Per minimitzar el risc de ciberatacs, Linux ofereix diverses funcions de seguretat que es poden configurar, com ara actualitzacions periòdiques, l'ús de contrasenyes fortes, el xifrat de dades i la configuració de firewalls[^fn-nth-2]. A més, el nucli de Linux proporciona documentació sobre vulnerabilitats de maquinari i possibles mitigacions[^fn-nth-3].
 
@@ -65,8 +65,8 @@ En resum, la combinació d'un codi obert, un enfocament en el privilegi mínim, 
 
 Cites:
 
-[^footnote] https://linuxsecurity.com/news/security-vulnerabilities
-[^fn-nth-2] https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
-[^fn-nth-3] https://docs.kernel.org/admin-guide/hw-vuln/index.html
-[^fn-nth-4] https://ubuntu.com/security/cves
-[^fn-nth-5] https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html
+[^footnote]: https://linuxsecurity.com/news/security-vulnerabilities
+[^fn-nth-2]: https://es.linkedin.com/advice/0/what-best-linux-system-security-features-configure-iqflf?lang=es
+[^fn-nth-3]: https://docs.kernel.org/admin-guide/hw-vuln/index.html
+[^fn-nth-4]: https://ubuntu.com/security/cves
+[^fn-nth-5]: https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/Linux-Linux-Kernel.html

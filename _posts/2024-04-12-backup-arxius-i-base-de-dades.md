@@ -1,9 +1,9 @@
 ---
-title:  "Còpia de seguretat d'arxius i base de dades"
+title: "Còpia de seguretat d'arxius i base de dades"
 description: "Com fer una còpia de seguretat d'arxius i base de dades en un servidor vps debian linux"
-date:   2024-04-12 20:00:39 +0200
-categories: [linux][bash]
-tags: [backups][vps][mysql][tar]
+date: 2024-04-12 20:00:39 +0200
+categories: [Linux, bash]
+tags: [backups, vps, mysql, tar]
 ---
 
 # Introducció

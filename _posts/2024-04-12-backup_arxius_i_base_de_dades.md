@@ -1,12 +1,12 @@
 ---
-title:  "Còpia de seguretat d'arxius i base de dades"
+title: "Còpia de seguretat d'arxius i base de dades"
 description: "Com fer una còpia de seguretat d'arxius i base de dades en un servidor vps debian linux"
-date:   2024-04-12 22:00:39 +0200
+date:   2024-04-12 20:00:39 +0200
 categories: [linux][bash]
 tags: [backups][vps][mysql][tar]
 ---
 
-# Còpia de seguretat d\'arxius i base de dades d\'aplicacions web a un servidor vps amb linux \- debian
+# Introducció
 
 Soc dels que ha ficat moltes vegades la pota per actualitzar alguna cosa sense haver fet abans una còpia de seguretat\.
 

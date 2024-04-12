@@ -5,7 +5,7 @@ date: 2024-04-12 20:00:39 +0200
 categories: [Linux, bash]
 tags: [backups, vps, mysql, tar]
 image:
-  path: "https://somlinux.cat/imatges/lukas-NLSXFjl_nhc-unsplash-debian.jpg"
+  path: "https://somlinux.cat/posts/imatges/lukas-NLSXFjl_nhc-unsplash-debian.jpg"
   alt: "Foto de Lukas a Unsplash"
 ---
 

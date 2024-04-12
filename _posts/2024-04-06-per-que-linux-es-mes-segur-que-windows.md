@@ -4,7 +4,7 @@ date: 2024-04-06 23:10:39 +0200
 categories: [linux]
 tags: [seguretat]
 image:
-  path: "https://somlinux.cat/imatges/flyd-mT7lXZPjk7U-unsplash-seguretat.jpg"
+  path: "https://somlinux.cat/posts/imatges/flyd-mT7lXZPjk7U-unsplash-seguretat.jpg"
   alt: "Foto de flyd a Unsplash"
 ---
 

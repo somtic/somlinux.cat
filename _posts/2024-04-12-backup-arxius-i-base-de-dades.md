@@ -13,7 +13,7 @@ image:
 
 Soc dels que ha ficat moltes vegades la pota per actualitzar alguna cosa sense haver fet abans una còpia de seguretat.
 
-Quan utilitzava allotjament en servidors compartits per a les meves webs, trobava molt tedios descarregar tots els arxius per FTP i, després, fer una còpia de seguretat de la base de dades a través de phpMyAdmin.
+Quan utilitzava allotjament en servidors compartits per a les meves webs, trobava molt tediós descarregar tots els arxius per FTP i, després, fer una còpia de seguretat de la base de dades a través de phpMyAdmin.
 
 Ara que administro el servidor VPS, fer aquestes còpies de seguretat a través de SSH és molt més ràpid, ja que només necessito dues comandes.
 

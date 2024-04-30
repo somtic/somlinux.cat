@@ -55,7 +55,7 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ### Seguretat
 
-- [Crowdsec](https://www.crowdsec.net/) - CrowdSec és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
+- [Crowdsec](https://www.crowdsec.net/) - és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
 
 ---
 

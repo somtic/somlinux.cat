@@ -51,11 +51,11 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ### Sistemes de tickets
 
-- Zammad [Enllaç al web](https://zammad.org/) - Sistema per la gestió de tickets. 
+- [Zammad](https://zammad.org/) - Sistema per la gestió de tickets. 
 
 ### Seguretat
 
-- Crowdsec [Enllaç al web](https://www.crowdsec.net/) - CrowdSec és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
+- [Crowdsec](https://www.crowdsec.net/) - CrowdSec és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
 
 ---
 

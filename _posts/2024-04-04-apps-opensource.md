@@ -49,7 +49,7 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 - Nom programa [Enllaç al web](#) - Petita descripció. 
   - Altres enllaços: [Enllaç al web](#)
 
-### Sistemes de tickets/suport
+### Sistemes de tickets
 
 - Zammad [Enllaç al web](https://zammad.org/) - Sistema per la gestió de tickets. 
 

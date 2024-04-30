@@ -20,6 +20,7 @@ Contingut:
   - [Desenvolupament de Programari](#desenvolupament-de-programari)
 - [Programari al núvol (cloud)](#programari-al-núvol-cloud)
   - [Sistemes CMS (Custom Management System)](#sistemes-cms-custom-management-system)
+  - [Sistemes Ecommerce](#sistemes-ecommerce)
   - [Sistemes de tickets](#sistemes-de-tickets)
   - [Seguretat](#seguretat)
 
@@ -79,8 +80,18 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ### Sistemes CMS (Custom Management System)
 
-- Nom programa [Enllaç al web](#) - Petita descripció. 
-  - Altres enllaços: [Enllaç al web](#)
+- [Wordpress](https://wordpress.org/) - Plataforma de gestió de contingut (CMS) amplament utilitzada per crear i mantenir llocs web autogestionables.
+- [Joomla](https://www.joomla.org/) - Sistema de gestió de contingut (CMS) flexible i altament personalitzable per a la creació de llocs web dinàmics.
+- [Drupal](https://www.drupal.org/)-  CMS de codi obert, flexible i escalable, adequat per a una àmplia gamma d'aplicacions web i empresarials.
+
+### Sistemes Ecommerce
+
+- [Prestashop](https://www.prestashop.com/) - Plataforma de comerç electrònic de codi obert que ofereix una solució completa per a la creació de botigues en línia.
+- [Thirtybees](https://thirtybees.com/) - Plataforma de comerç electrònic derivat de Prestashop 1.5.
+- [Magento](https://magento.com/) - Plataforma de comerç electrònic de codi obert que ofereix funcionalitats avançades per a la creació de botigues en línia.
+- [OpenCart](https://www.opencart.com/) - Plataforma de comerç electrònic de codi obert que ofereix una solució àgil i fàcil d'utilitzar per a la creació de botigues en línia.
+- [WooCommerce](https://woocommerce.com/) - Plugin de WordPress que permet convertir un lloc web en una botiga en línia amb facilitat i flexibilitat.
+- [osCommerce](https://www.oscommerce.com/) - Plataforma de comerç electrònic de codi obert que ofereix una solució completa per a la creació de botigues en línia.
 
 ### Sistemes de tickets
 

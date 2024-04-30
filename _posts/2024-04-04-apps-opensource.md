@@ -16,7 +16,7 @@ Contingut:
   - [Categoria 2](#categoria-2)
 - [Programari al núvol (cloud)](#programari-al-núvol-cloud)
   - [Sistemes CMS (Custom Management System)](#sistemes-cms-custom-management-system)
-  - [Categoria 2](#categoria-2-1)
+  - [Sistemes de tickets](#sistemes-de-tickets)
 
 ## Introducció
 
@@ -53,9 +53,9 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 - Nom programa [Enllaç al web](#) - Petita descripció. 
   - Altres enllaços: [Enllaç al web](#)
 
-### Categoria 2
+### Sistemes de tickets
 
-- Nom programa [Enllaç al web](#) - Petita descripció. 
+- Zammad [Enllaç al web]([#](https://zammad.org/)) - Sistema per la gestió de tickets. 
   - Altres enllaços: [Enllaç al web](#)
 
 ---

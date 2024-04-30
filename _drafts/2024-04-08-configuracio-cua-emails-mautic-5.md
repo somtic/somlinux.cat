@@ -19,7 +19,7 @@ i fer clic a desar.
 
 ![Imatge configuració](./imatges/mautic/config_cua_01.png)
 
-Al fer clic a test ho dona com a *èxit*, però no s'envia cap email, va a parar a la cua.
+Al fer clic a test ho dona com a *èxit*, però no s'envia cap email.
 
 Després d'això, s'ha d'emprar una comanda de symfony (segons documentació de Mautic) que és qui s'encarrega d'enviar l'email. La comanda s'anomena **consume** [documentació de symfony](https://symfony.com/doc/current/messenger.html#consuming-messages-running-the-worker)
 

@@ -13,10 +13,10 @@ Contingut:
 - [Introducció](#introducció)
 - [Programari d'escriptori](#programari-descriptori)
   - [Categoria 1](#categoria-1)
-  - [Categoria 2](#categoria-2)
 - [Programari al núvol (cloud)](#programari-al-núvol-cloud)
   - [Sistemes CMS (Custom Management System)](#sistemes-cms-custom-management-system)
   - [Sistemes de tickets](#sistemes-de-tickets)
+  - [Seguretat](#seguretat)
 
 ## Introducció
 
@@ -38,10 +38,6 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 - Nom programa [Enllaç al web](#) - Petita descripció. 
   - Altres enllaços: [Enllaç al web](#)
 
-### Categoria 2
-
-- Nom programa [Enllaç al web](#) - Petita descripció. 
-  - Altres enllaços: [Enllaç al web](#)
 
 ## Programari al núvol (cloud)
 
@@ -53,10 +49,13 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 - Nom programa [Enllaç al web](#) - Petita descripció. 
   - Altres enllaços: [Enllaç al web](#)
 
-### Sistemes de tickets
+### Sistemes de tickets/suport
 
 - Zammad [Enllaç al web](https://zammad.org/) - Sistema per la gestió de tickets. 
-  - Altres enllaços: [Enllaç al web](#)
+
+### Seguretat
+
+- Crowdsec [Enllaç al web](https://www.crowdsec.net/) - CrowdSec és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
 
 ---
 

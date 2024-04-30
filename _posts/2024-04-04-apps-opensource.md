@@ -55,7 +55,7 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ### Sistemes de tickets
 
-- Zammad [Enllaç al web]([#](https://zammad.org/)) - Sistema per la gestió de tickets. 
+- Zammad [Enllaç al web](https://zammad.org/) - Sistema per la gestió de tickets. 
   - Altres enllaços: [Enllaç al web](#)
 
 ---

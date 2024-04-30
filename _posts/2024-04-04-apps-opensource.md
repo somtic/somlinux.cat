@@ -12,7 +12,12 @@ pin: true
 Contingut:
 - [Introducció](#introducció)
 - [Programari d'escriptori](#programari-descriptori)
-  - [Categoria 1](#categoria-1)
+  - [Navegació i Productivitat](#navegació-i-productivitat)
+  - [Ofimàtica](#ofimàtica)
+  - [Imatge i Vídeo](#imatge-i-vídeo)
+  - [Disseny Assistit per Ordinador (CAD)](#disseny-assistit-per-ordinador-cad)
+  - [Edició de So](#edició-de-so)
+  - [Desenvolupament de Programari](#desenvolupament-de-programari)
 - [Programari al núvol (cloud)](#programari-al-núvol-cloud)
   - [Sistemes CMS (Custom Management System)](#sistemes-cms-custom-management-system)
   - [Sistemes de tickets](#sistemes-de-tickets)
@@ -30,13 +35,43 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 ## Programari d'escriptori
 
-> El programari d'escriptori és aquell que instal·lem al nostre ordinador, al nostre sistema operatiu. 
+> El programari d'escriptori és aquell que instal·lem al nostre ordinador, al nostre sistema operatiu. Trobaràs aquests programes en el Centre de Programari del teu sistema linux.
 {: .prompt-tip }
 
-### Categoria 1
 
-- Nom programa [Enllaç al web](#) - Petita descripció. 
-  - Altres enllaços: [Enllaç al web](#)
+### Navegació i Productivitat
+
+- [Mozilla Firefox](https://www.mozilla.org/ca/firefox/new/) - És un navegador web de codi obert i altament personalitzable.
+- [Thunderbird](https://www.thunderbird.net/) - És un client de correu electrònic de codi obert i segur.
+
+Aquests programes ofereixen funcionalitats addicionals i poden complementar bé la llista existent, cobrint altres àmbits importants del software de codi obert.
+
+### Ofimàtica
+
+- [Libreoffice](https://ca.libreoffice.org/) - és una suite ofimàtica de codi obert que ofereix diverses aplicacions per a processament de textos, fulls de càlcul, presentacions, bases de dades i altres tasques relacionades amb la productivitat.
+- [Scribus](https://www.scribus.us/) - és una aplicació de maquetació de pàgines de codi obert que permet crear documents de disseny gràfic avançats.
+
+### Imatge i Vídeo
+
+- [Kdenlive](https://kdenlive.org/en/) - és un editor de vídeo, ric en funcions i orientat a l'edició de vídeo no lineal.
+- [Digikam](https://www.digikam.org/) - és una aplicació de gestió de fotos que ofereix funcions avançades d'organització, edició i compartir fotos.
+- [Gimp](https://www.gimp.org/) - és un editor d'imatges que ofereix una àmplia gamma de funcions per a la manipulació d'imatges.
+- [Inkscape](https://inkscape.org/) -  és un editor de gràfics vectorials que permet crear i editar gràfics vectorials escalables amb una interfície àgil.
+
+### Disseny Assistit per Ordinador (CAD)
+
+- [FreeCAD](https://www.freecad.org/) - és un programari de disseny assistit per ordinador (CAD) en 3D, destinat a la modelització paramètrica de peces reals. És adequat per a la creació de dissenys en àmbits com l'enginyeria mecànica, l'arquitectura i altres disciplines tècniques.
+- [LibreCAD](https://librecad.org/) - és una eina de disseny assistit per ordinador (CAD) en 2D, dissenyada per a la creació de dibuixos tècnics i esbossos. És una opció lliure i de codi obert adequada per a professionals i aficionats que necessiten crear projectes en 2D.
+- [QCAD](https://www.qcad.org/es/) - és una aplicació CAD en 2D que ofereix un conjunt d'eines versàtil per a la creació de dibuixos tècnics precisos. Amb una interfície senzilla i potent, QCAD és una opció popular per als professionals i aficionats que necessiten realitzar projectes en 2D amb facilitat i precisió.
+- [Blender](https://www.blender.org/) -  és una aplicació de modelatge i animació 3D de codi obert, potent i versàtil.
+
+### Edició de So
+
+- [Audacity](https://www.audacityteam.org/) - És un editor de so de codi obert que permet enregistrar i editar àudio en múltiples formats.
+
+### Desenvolupament de Programari
+
+- [Visual Studio Code](https://code.visualstudio.com/) - És un editor de codi de codi obert que ofereix un ampli conjunt d'eines per a desenvolupadors de programari.
 
 
 ## Programari al núvol (cloud)

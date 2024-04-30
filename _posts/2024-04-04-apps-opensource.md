@@ -44,8 +44,6 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 - [Mozilla Firefox](https://www.mozilla.org/ca/firefox/new/) - És un navegador web de codi obert i altament personalitzable.
 - [Thunderbird](https://www.thunderbird.net/) - És un client de correu electrònic de codi obert i segur.
 
-Aquests programes ofereixen funcionalitats addicionals i poden complementar bé la llista existent, cobrint altres àmbits importants del software de codi obert.
-
 ### Ofimàtica
 
 - [Libreoffice](https://ca.libreoffice.org/) - és una suite ofimàtica de codi obert que ofereix diverses aplicacions per a processament de textos, fulls de càlcul, presentacions, bases de dades i altres tasques relacionades amb la productivitat.

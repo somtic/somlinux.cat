@@ -23,6 +23,7 @@ Contingut:
   - [Sistemes Ecommerce](#sistemes-ecommerce)
   - [Sistemes de tickets](#sistemes-de-tickets)
   - [Seguretat](#seguretat)
+  - [Monitoreig i supervisió](#monitoreig-i-supervisió)
 
 ## Introducció
 
@@ -101,6 +102,9 @@ Són molt benvingudes les teves aportacions i/o comentaris!!!
 
 - [Crowdsec](https://www.crowdsec.net/) - és una plataforma de seguretat cibernètica de codi obert que ofereix protecció adaptativa contra amenaces a través de la col·laboració de la comunitat per identificar i respondre a les amenaces de seguretat.
 
+### Monitoreig i supervisió
+
+- [Uptime Kuma](https://uptime.kuma.pet/) - és un servei de monitoreig en la núvol que monitorea la disponibilitat i rendiment d'aplicacions i serveis en la núvol, enviant notificacions i alertes en cas de problemes.
 ---
 
 Si tens alguna pregunta o necessites més informació, no dubtis a preguntar. Estic [aquí](mailto:suport@somlinux.cat) per ajudar-te en el teu viatge cap a Linux!

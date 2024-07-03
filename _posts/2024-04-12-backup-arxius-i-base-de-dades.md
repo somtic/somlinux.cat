@@ -55,3 +55,21 @@ mysqldump -u usuari_base_dades -p'paraulaclau' base_dades_web | gzip > backup_ba
 ```
 
 Aquestes comandes estan realitzades amb l'usuari root. La recomanació és fer-ho amb l'usuari que pertany a aquell hosting, posant davant de les instruccions `sudo -u usuari`
+
+## Restaurar base de dades Mysql
+
+Tenim l'arxiu comprimit (.gz) amb la base de dades. El primer que hem de fer és descomprimir:
+
+```bash
+gunzip base_dades_web.sql.gz
+```
+
+Ara ja tenim l'arxiu .sql i l'hem d'importar a la base de dades que tinguem (si no la teniu, l'heu de crear primer). Farem servir la comanda `mysql`
+
+```bash
+mysql -u usuari_base_dades -p'paraulaclau' base_dades_web < arxiu.sql
+```
+
+
+
+
